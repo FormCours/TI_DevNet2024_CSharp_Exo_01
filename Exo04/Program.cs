@@ -42,6 +42,8 @@ Console.WriteLine();
 
 
 // Exo 03 - Grâce à une boucle « for », calculez les x premiers nombre premier
+
+
 {
     Console.Write("Nombre prémier désiré : ");
     int nbUserRequest = int.Parse(Console.ReadLine()!);
@@ -84,17 +86,21 @@ Console.WriteLine();
 // Exo 04 -  A l’aide de boucles « for » afficher les 5 premières tables de multiplication en allant jusque « x20 ».
 
 // Bonus -> Avec une seul boucle 😲
-int table = 1;
-Console.WriteLine($"Table de {table} : ");
-
-for(int multi = 1; table <= 5 ; multi++)
+/*
 {
-    Console.WriteLine($"\t {multi} x {table} = {multi * table}");
+    int table = 1;
+    Console.WriteLine($"Table de {table} : ");
 
-    if(multi >= 20)
+    for(int multi = 1; table <= 5 ; multi++)
     {
-        multi = 0;
-        table++;
-        Console.WriteLine($"Table de {table} : ");
+        Console.WriteLine($"\t {multi} x {table} = {multi * table}");
+
+        if(multi >= 20)
+        {
+            multi = 0;
+            table++;
+            Console.WriteLine($"Table de {table} : ");
+        }
     }
 }
+*/

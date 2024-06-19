@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo02", "Exo02\Exo02.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo03", "Exo03\Exo03.csproj", "{B78914C2-2A67-445E-BA59-57E4D5F472D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo04", "Exo04\Exo04.csproj", "{A3E94F41-1604-45B3-A225-91F24E2309FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo04", "Exo04\Exo04.csproj", "{A3E94F41-1604-45B3-A225-91F24E2309FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo05", "Exo05\Exo05.csproj", "{70504F93-A0A5-4671-8819-79BF3768873A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A3E94F41-1604-45B3-A225-91F24E2309FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E94F41-1604-45B3-A225-91F24E2309FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E94F41-1604-45B3-A225-91F24E2309FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70504F93-A0A5-4671-8819-79BF3768873A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70504F93-A0A5-4671-8819-79BF3768873A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70504F93-A0A5-4671-8819-79BF3768873A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70504F93-A0A5-4671-8819-79BF3768873A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
