@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo04", "Exo04\Exo04.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo05", "Exo05\Exo05.csproj", "{70504F93-A0A5-4671-8819-79BF3768873A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo06", "Exo06\Exo06.csproj", "{7242F0B1-6605-40C1-BD24-706C0CD5A39A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo06", "Exo06\Exo06.csproj", "{7242F0B1-6605-40C1-BD24-706C0CD5A39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo07_1", "Exo07_1\Exo07_1.csproj", "{CE03B194-D9CF-425F-88A5-4C992027081D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{7242F0B1-6605-40C1-BD24-706C0CD5A39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7242F0B1-6605-40C1-BD24-706C0CD5A39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7242F0B1-6605-40C1-BD24-706C0CD5A39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE03B194-D9CF-425F-88A5-4C992027081D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE03B194-D9CF-425F-88A5-4C992027081D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE03B194-D9CF-425F-88A5-4C992027081D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE03B194-D9CF-425F-88A5-4C992027081D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

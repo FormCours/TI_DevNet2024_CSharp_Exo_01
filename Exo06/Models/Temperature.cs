@@ -5,6 +5,9 @@
     public struct Celsius
     {
         public double Temperature;
+
+
+
     }
 
     public struct Fahrenheit
