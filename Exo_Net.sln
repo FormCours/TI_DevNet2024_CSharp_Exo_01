@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo05", "Exo05\Exo05.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo06", "Exo06\Exo06.csproj", "{7242F0B1-6605-40C1-BD24-706C0CD5A39A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo07_1", "Exo07_1\Exo07_1.csproj", "{CE03B194-D9CF-425F-88A5-4C992027081D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo07_1", "Exo07_1\Exo07_1.csproj", "{CE03B194-D9CF-425F-88A5-4C992027081D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo07_2", "Exo07_2\Exo07_2.csproj", "{D933C75D-FCE9-4FF1-BEFE-3611B285DE8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo07_2", "Exo07_2\Exo07_2.csproj", "{D933C75D-FCE9-4FF1-BEFE-3611B285DE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo08", "Exo_08\Exo08.csproj", "{64D0F1D3-DBC4-4EE8-82DE-41FA2BC3448E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D933C75D-FCE9-4FF1-BEFE-3611B285DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D933C75D-FCE9-4FF1-BEFE-3611B285DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D933C75D-FCE9-4FF1-BEFE-3611B285DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D0F1D3-DBC4-4EE8-82DE-41FA2BC3448E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D0F1D3-DBC4-4EE8-82DE-41FA2BC3448E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D0F1D3-DBC4-4EE8-82DE-41FA2BC3448E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D0F1D3-DBC4-4EE8-82DE-41FA2BC3448E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
